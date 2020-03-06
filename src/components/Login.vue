@@ -2,7 +2,7 @@
     <div>
         <el-form :model="form" class="loginbox">
             <el-form-item  :label-width="formLabelWidth">
-                <el-header class="el-header">登陆智慧林云系统</el-header>
+                <el-header class="el-header">登陆-智慧林云系统</el-header>
             </el-form-item>
             <el-form-item label="用户名" :label-width="formLabelWidth">
                 <el-input v-model="form.loginname" ></el-input>
