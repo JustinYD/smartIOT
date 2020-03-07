@@ -1,6 +1,6 @@
 # vue
 
-## Project setup项目初始化
+## Project setup项目初始化！！
 ```
 npm install
 ```
